@@ -1,7 +1,7 @@
 Esta es la historia de Cesar
 
-Cesar tiene 23 años y estudia Desarrollo Web,
-en Platzi
+Cesar tiene 18 años y estudia Marketing
 
-Hoy hablaremos de como hizo cosas en GIT
-y de como hará historia con todo lo que aprende y sus habilidades.
+Hoy hablaremos de su infancia
+
+Mañana nos enfocaremos en lo demás...
